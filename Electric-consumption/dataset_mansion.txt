@@ -1,0 +1,18 @@
+MTime: UTC-time (no day-time savings)
+Consumption: Mansion electricity consumption 
+Latitude: Weatherstation latitude coordinate
+Longitude: Weatherstation longitude coordinate 
+Place: Weatherstation location name 
+AirTemperature(degC): Average temperature during hour
+HighestTemperature(degC): Highest temperature during hour
+LowestTemperature(degC): Lowest temperature during hour
+Relative Humidity(%): Calculated relative humidity 
+WindSpeed(m/s): Average wind speed during hour 
+MaximumWindSpeed(m/s): Highest windspeed during hour
+MiminumWindSpeed(m/s): Lowest windspeed during hour 
+WindDirection(deg): Average wind direction during hour. 
+                    Between 0-360. 0/360 means that the wind is blowing from the north towards the south.
+PrecipitationAmount(mm):  Amount of precipitation during an hour 
+MaximumPrecipitationIntensity(mm/h): Equivalent to the precipitation amount if the same intensity prevails for an hour.
+AirPressure(hPa): Average air pressure during hour 
+PresentWeather(rank): Weather rank
